@@ -1,49 +1,53 @@
-# Instructor modules
+```{r echo = FALSE}
+knitr::opts_chunk$set(out.width = "100%")
+```
 
-Modules aimed at instructors.
- 
+# Programming Platforms
+
+This section provide a general overview of how to use Galaxy on AnVIL.
+
 <br>
- 
-## Why AnVIL for Instructors?
+
+
+## Video overview on using Galaxy
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/_child_galaxy_video.Rmd",
+  repo_name = "jhudsl/AnVIL_Template"
+)
+```
+
+## Starting Galaxy
 
 :::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/_child_why_AnVIL_instructor.Rmd",
+  doc_path = "child/_child_galaxy_start.Rmd",
   repo_name = "jhudsl/AnVIL_Template"
 )
 ```
 ::::
 
-## Checklist Link
+## Navigating Galaxy
 
 :::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/_child_instructor_checklist_link.Rmd",
+  doc_path = "child/_child_galaxy_navigate.Rmd",
   repo_name = "jhudsl/AnVIL_Template"
 )
 ```
 ::::
 
-## Checklist Timeline (premade content)
+## Deleting Galaxy
 
 :::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/_child_instructor_timeline_premade.Rmd",
+  doc_path = "child/_child_galaxy_delete.Rmd",
   repo_name = "jhudsl/AnVIL_Template"
 )
 ```
 ::::
 
-## Recommendation to use STRIDES
-
-:::: {.borrowed_chunk}
-```{r, echo = FALSE, results='asis'}
-cow::borrow_chapter(
-  doc_path = "child/_child_instructor_STRIDES.Rmd",
-  repo_name = "jhudsl/AnVIL_Template"
-)
-```
-::::
