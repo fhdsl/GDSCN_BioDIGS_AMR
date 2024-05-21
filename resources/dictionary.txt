@@ -1,15 +1,20 @@
+ABRicate
 AnVIL
 Audiographer
 Audiography
 automagic
 BiocManager
+BioDIGS
+BioDiversity
 bioinformatics
 BIPOC
 Bloomberg
+bmr
 bookdown
 Bookdown
 callout
 Callout
+Cliffe
 colData
 Coursera
 CoV
@@ -50,6 +55,7 @@ limma
 MDS
 mentorship
 MERCHANTABILITY
+metagenomic
 Muschelli
 NCI
 NHGRI
@@ -58,6 +64,7 @@ Onboarding
 OTTR
 ottrpal
 ottrproject
+PacBio
 plotMDS
 precompiled
 premade
@@ -72,7 +79,7 @@ Savonen
 sexualized
 socio
 synched
-textboc
+textbox
 timeframe
 underserved
 Videographer
