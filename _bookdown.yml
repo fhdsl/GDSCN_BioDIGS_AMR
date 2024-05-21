@@ -1,4 +1,4 @@
-book_filename: "GDSCN_Antimicrobial Resistance with BioDIGS"
+book_filename: "BioDIGS in the Classroom: Investigating Antimicrobial Resistance"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/AnVIL_Template/
 rmd_files: ["index.Rmd",
