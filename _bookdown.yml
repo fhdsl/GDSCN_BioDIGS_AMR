@@ -8,6 +8,7 @@ rmd_files: ["index.Rmd",
             "07-instructor_guide.Rmd",
             "08-student_guide.Rmd",
             "About.Rmd"
+            ]
 new_session: yes
 bibliography: [book.bib]
 delete_merged_file: true
