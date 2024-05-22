@@ -2,7 +2,7 @@ book_filename: "BioDIGS in the Classroom: Investigating Antimicrobial Resistance
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/AnVIL_Template/
 rmd_files: ["index.Rmd",
-            "04-billing-modules.Rmd",
+            "04-billing_modules.Rmd",
             "05-anvil_onboarding.Rmd",
             "06-using_galaxy.Rmd",
             "07-instructor_guide.Rmd",
