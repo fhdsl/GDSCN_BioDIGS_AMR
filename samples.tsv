@@ -1,0 +1,4 @@
+entity:sample_id	hospital	Location	Type
+SRR13227005	H1	JNMCH	urban
+SRR13227004	H2	DMCH	urban
+SRR13227003	H3	KMCH	rural
