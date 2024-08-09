@@ -19,13 +19,23 @@ The GDSCN (Genomics Data Science Community Network) is a consortium of educators
 
 ![BioDIGS logo](https://raw.githubusercontent.com/fhdsl/GDSCN_BioDIGS_Book/main/assets/GDSCN_style/logo_BioDIGS_final.png){width=300px}
 
-## Target Audience
+## Skills Level
 
 The activities in this guide are written for undergraduate students and beginning graduate students. 
+
+::: {.notice}
+_Genetics_
+<!-- **Beginner**: some genetics knowledge needed -->
+
+_Programming skills_
+<!-- **Novice**: no programming experience needed -->
+:::
 
 ## Platform
 
 The activities in this guide are demonstrated on NHGRI's [AnVIL](https://anvilproject.org/) cloud computing platform. AnVIL is the preferred computing platform for the GDSCN. However, all of these activities can be done using your personal installation of R or using the online [Galaxy](usegalaxy.org) portal.
+
+Please check out our full collection of AnVIL and related resources: https://hutchdatascience.org/AnVIL_Collection/
 
 ## Data
 
