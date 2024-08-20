@@ -1,10 +1,12 @@
-# BioDIGS Project Overview
 
-:::: {.borrowed_chunk}
+# (PART\*) BioDIGS Overview {-}
+
+# Background
+
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "01-BioDIGS_project_overview.Rmd",
+  doc_path = "child/_child_biodigs_overview.Rmd",
+  branch = "main",
   repo_name = "fhdsl/GDSCN_BioDIGS_Book"
 )
 ```
-::::
