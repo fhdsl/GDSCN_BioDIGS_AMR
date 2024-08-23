@@ -1,0 +1,4 @@
+entity:sample_id	source	kingdom	phylum	class	order	family	species	genome	biosample	acession	project
+MGYG000307601	Chicken gut metagenome	Bacteria	Firmicutes_A	Clostridia	Christensenellales	CAG-74	Onthenecus intestinigallinarum	gs://fc-2717700f-3ce1-4e0a-96c3-274abfce56ff/MGYG000307601.fna	SAMN15817054	SRR6323376	PRJNA543206
+MGYG000307607	Chicken gut metagenome	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Catenibacillus faecavium	gs://fc-2717700f-3ce1-4e0a-96c3-274abfce56ff/MGYG000307607.fna	SAMN15817004	ERR3414591	PRJNA543206
+MGYG000307615	Chicken gut metagenome	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Scatomorpha gallistercoris	gs://fc-2717700f-3ce1-4e0a-96c3-274abfce56ff/MGYG000307615.fna	SAMN15817213	SRR6323174	PRJNA543206
