@@ -1,4 +1,3 @@
-:::: {.borrowed_chunk}
 
 # AnVIL Workspace
 
@@ -47,4 +46,3 @@ If you would like to create a Google account that is associated with your non-Gm
 1. Click "CLONE WORKSPACE".  The new Workspace should now show up under your Workspaces.
 
     <img src="resources/images/05-anvil_onboarding_files/figure-html//1JvfOluHe543cUCyyH3zz0ew-1J1QjhdYGZufW9NrC_M_g117abafa453_0_1012.png" alt="Screenshot of Terra popup dialog box for creating a new Workspace. The &quot;Clone Workspace&quot; button is highlighted." width="480" />
-::::

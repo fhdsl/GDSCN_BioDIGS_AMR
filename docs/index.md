@@ -1,6 +1,6 @@
 ---
-title: "BioDIGS in the Classroom: Investigating Antimicrobial Resistance"
-date: "August 09, 2024"
+title: "BioDIGS in the Classroom: Antimicrobial Resistance"
+date: "August 23, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -17,15 +17,25 @@ This is a companion training guide for BioDIGS, a GDSCN project that brings a re
 
 The GDSCN (Genomics Data Science Community Network) is a consortium of educators who aim to create a world where researchers, educators, and students from diverse backgrounds are able to fully participate in genomic data science research. You can find more information about its mission and initiatives [here](https://www.gdscn.org/home).
 
-![BioDIGS logo](https://raw.githubusercontent.com/fhdsl/GDSCN_BioDIGS_Book/main/assets/GDSCN_style/logo_BioDIGS_final.png){width=300px}
+<img src="https://raw.githubusercontent.com/fhdsl/GDSCN_BioDIGS_Book/main/assets/GDSCN_style/logo_BioDIGS_final.png" alt="BioDIGS logo" width="300px" style="display: block; margin: auto;" />
 
-## Target Audience
+## Skills Level
 
 The activities in this guide are written for undergraduate students and beginning graduate students. 
+
+::: {.notice}
+_Genetics_
+<!-- **Beginner**: some genetics knowledge needed -->
+
+_Programming skills_
+<!-- **Novice**: no programming experience needed -->
+:::
 
 ## Platform
 
 The activities in this guide are demonstrated on NHGRI's [AnVIL](https://anvilproject.org/) cloud computing platform. AnVIL is the preferred computing platform for the GDSCN. However, all of these activities can be done using your personal installation of R or using the online [Galaxy](usegalaxy.org) portal.
+
+Please check out our full collection of AnVIL and related resources: https://hutchdatascience.org/AnVIL_Collection/
 
 ## Data
 
