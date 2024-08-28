@@ -1,0 +1,30 @@
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+# Exploring Biosynthetic Gene Clusters
+
+In this module, you will examine the chicken gut microbiome samples for evidence of selection on biosynthetic gene clusters.
+
+## Background
+
+*Secondary metabolites* are organic compounds produced by a living organism that are _not_ directly used for normal growth, development, or reproduction. Secondary metabolites are sometimes called specialized metabolites, and these compounds play roles in how the organisms interacts with the environment. They may aid in protecting against stressors that are either biotic (e.g., the presence of other microbes competing for the same resources, which may produce toxic compounds against competitors) or abiotic (e.g., heavy metals in the soil, high external salt concentrations, or particularly acidic or alkaline soil).
+
+These metabolites are produced by a group of genes known as *biosynthetic gene clusters* (BGCs). Genes within a BGC are physically close to each other and also encode a biosynthetic pathway that produces a secondary metabolite  [Medema et al. 2015](https://www.nature.com/articles/nchembio.1890)
+
+BGCs produce compounds with a huge range of applications, including pharmaceuticals, natural toxins (and toxin degradation), and molecules for chemical communication or chemical warfare between organisms. BGCs are also important for getting nutrients, vitamin biosynthesis, and *antimicrobial resistance*. We will focus on this last part during the exercise.
+
+## Before You Start
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/_child_google_create_account.Rmd",
+  repo_name = "jhudsl/AnVIL_Template"
+)
+```
+
+## Objectives
+
+This activity will teach you how to:
+
+
