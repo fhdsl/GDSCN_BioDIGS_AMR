@@ -8,11 +8,16 @@ Audiographer
 Audiography
 automagic
 Bachman
+BGC
+BGCs
 BiocManager
 BioDIGS
 BioDIGSData
 BioDiversity
 bioinformatics
+biosynthetic
+Biosynthetic
+biotic
 BIPOC
 Bloomberg
 bmr
@@ -94,6 +99,7 @@ LOI
 Manoa
 Mānoa
 MDS
+Medema
 mentorship
 MERCHANTABILITY
 metagenomic
@@ -103,6 +109,7 @@ mentorship
 meq
 metagenomics
 Metagenomics
+microbiome
 Muschelli
 na
 Nanopore
