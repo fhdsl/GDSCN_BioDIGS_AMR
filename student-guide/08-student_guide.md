@@ -50,7 +50,6 @@ The slides for this tutorial are are located [here](https://docs.google.com/pres
 ## Warning: Chunk option fig.alt is not supported for docx output
 ## Warning: Chunk option fig.alt is not supported for docx output
 ## Warning: Chunk option fig.alt is not supported for docx output
-## Warning: Chunk option fig.alt is not supported for docx output
 ```
 
 
@@ -68,33 +67,27 @@ Note that, in order to use RStudio, you must have access to a Terra Workspace wi
 
 1. In the drop-down menu on the left, navigate to "Workspaces". Click the triple bar in the top left corner to access the menu. Click "Workspaces".
 
-    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g117989bd49c_0_150.png){width=100%}
+    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g117989bd49c_0_150.png)
 
 1. Click on the name of your Workspace. You should be routed to a link that looks like: `https://anvil.terra.bio/#workspaces/<billing-project>/<workspace-name>`.
 
-1. Click on the cloud icon on the far right to access your Cloud Environment options.
+1. Click on the cloud icon on the far right to access your Cloud Environment options.  If you don’t see this icon, you may need to scroll to the right.
 
-    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_22.png){width=100%}
+    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_22.png)
 
 1. In the dialogue box, click the "Settings" button under RStudio.
 
-    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_18.png){width=100%}
+    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_18.png)
 
-1. You will see some details about the default RStudio cloud environment, and a list of costs because it costs a small amount of money to use cloud computing.
+1. You will see some configuration options for the RStudio cloud environment, and a list of costs because it costs a small amount of money to use cloud computing.
 
-    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_35.png){width=100%}
-
-
-
-1. If you are uncertain about what you need, the default configuration is a reasonable, cost-conservative choice.  It is fairly easy to increase your compute resources later, if needed, but harder to scale down. Click the “Create” button.
-
-    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_41.png){width=100%}
+    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g256428d32e5_0_10.png)
 
 
 
-1. Otherwise, click “CUSTOMIZE” to modify the environment for your needs.
+1. Configure any settings you need for your cloud environment.  If you are uncertain about what you need, the default configuration is a reasonable, cost-conservative choice.  It is fairly easy to increase your compute resources later, if needed, but harder to scale down. Scroll down and click the "CREATE" button when you are satisfied with your setup.
 
-    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_48.png){width=100%}
+    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g256428d32e5_0_16.png)
 
     
 
@@ -106,21 +99,23 @@ Note that, in order to use RStudio, you must have access to a Terra Workspace wi
 
     
 
-1. The dialogue box will close and you will be returned to your Workspace.  You can see the status of your cloud environment by hovering over the RStudio logo.  It will take a few minutes for Terra to request computers and install software.
+    
 
-    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_91.png){width=100%}
+1. The dialogue box will close and you will be returned to your Workspace.  You can see the status of your cloud environment by hovering over the RStudio icon.  It will take a few minutes for Terra to request computers and install software.
 
-1. When your environment is ready, its status will change to “Running”.  Click on the RStudio logo to open a new dialogue box that will let you launch RStudio.
+    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_91.png)
 
-    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_95.png){width=100%}
+1. When your environment is ready, its status will change to "Running".  Click on the RStudio logo to open a new dialogue box that will let you launch RStudio.
+
+    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_95.png)
     
 1. Click the launch icon to open RStudio.  This is also where you can pause, modify, or delete your environment when needed.
 
-    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_99.png){width=100%}
+    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_99.png)
 
 1. You should now see the RStudio interface with information about the version printed to the console.
 
-    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_103.png){width=100%}
+    ![](resources/images/08-student_guide_files/figure-docx//1a35Mb8f0M-bQkBcHa1cyQc6YxXoBLtExCz96nv08vkA_g14ea2db115d_0_103.png)
 
 ## Touring RStudio
 
@@ -200,9 +195,29 @@ Next, we will be using RStudio and the package `Glimma` to create interactive pl
 ```
 ## Warning: Chunk option fig.alt is not supported for docx output
 ## Warning: Chunk option fig.alt is not supported for docx output
+## Warning: Chunk option fig.alt is not supported for docx output
+## Warning: Chunk option fig.alt is not supported for docx output
+## Warning: Chunk option fig.alt is not supported for docx output
+## Warning: Chunk option fig.alt is not supported for docx output
 ```
 
 
+
+1. You can view costs and make changes to your cloud environments from the panel on the far right of the page.  If you don’t see this panel, you may need to scroll to the right.  Running environments will have a green dot, and paused environments will have an orange dot.
+
+    ![](resources/images/08-student_guide_files/figure-docx//16s-TjOg19RrkxS9sM9fGfD0M_WIxlw-e8PFWDymjvRU_g230ed3a46c7_0_0.png)
+
+1. Hovering over the RStudio icon will show you the costs associated with your RStudio environment.  Click on the RStudio icon to open the cloud environment settings.
+
+    ![](resources/images/08-student_guide_files/figure-docx//16s-TjOg19RrkxS9sM9fGfD0M_WIxlw-e8PFWDymjvRU_g230ed3a46c7_0_6.png)
+
+1. Click the Pause button to pause RStudio.  This will take a few minutes.
+
+    ![](resources/images/08-student_guide_files/figure-docx//16s-TjOg19RrkxS9sM9fGfD0M_WIxlw-e8PFWDymjvRU_g230ed3a46c7_0_231.png)
+
+1. When the environment is paused, an orange dot will be displayed next to the RStudio icon.  If you hover over the icon, you will see that it is paused, and has a small ongoing cost as long as it is paused.  When you’re ready to resume working, you can do so by clicking the RStudio icon and clicking Resume.
+
+    ![](resources/images/08-student_guide_files/figure-docx//16s-TjOg19RrkxS9sM9fGfD0M_WIxlw-e8PFWDymjvRU_g230ed3a46c7_0_237.png)
 
 1. The right-hand side icon reminds you that you are accruing cloud computing costs. If you don’t see this icon, you may need to scroll to the right.
 
@@ -247,7 +262,7 @@ In the first box, give your Workspace clone a name by adding an underscore (“_
 
 Here is a video tutorial that describes the basics of using Galaxy on AnVIL.
 
-<iframe src="https://drive.google.com/file/d/16QEY8x-gBsUkKEeO3w_H-I4SLIBPloXd/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe width="560" height="315" src="https://youtu.be/9TEVu7QobOo?si=tLFXNe951vVJV4iN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Objectives
 
@@ -257,7 +272,7 @@ Here is a video tutorial that describes the basics of using Galaxy on AnVIL.
 
 ### Slides
 
-The slides for this tutorial are are located [here](https://docs.google.com/presentation/d/1yYCg4cPVBMMDghT17B4XzROieqyMH99Ex9nMm_Scm9Q).
+The slides for this tutorial are are located [here](https://docs.google.com/presentation/d/1yYCg4cPVBMMDghT17B4XzROieqyMH99Ex9nMm_Scm9Q/edit?usp=sharing).
 
 
 ## Starting Galaxy {#starting-galaxy}
@@ -319,18 +334,17 @@ On the welcome page, there are links to tutorials. You may try these out on your
 
 
 
-
 Once you are done with your activity, you’ll need to shut down your Galaxy cloud environment. This frees up the cloud resources for others and minimizes computing cost. The following steps will delete your work, so make sure you are completely finished at this point. Otherwise, you will have to repeat your work from the previous steps.
 
-Return to AnVIL, and find the Galaxy logo that shows your cloud environment is running. Click on this logo:
+Return to AnVIL, and find the Galaxy logo that shows your cloud environment is running. Click on this logo.
 
-![](resources/images/08-student_guide_files/figure-docx//182AOzMaiyrreinnsRX2VhH7YsVgvAp4xtIB_7Mzmk6I_gf243efded1_0_134.png)
+![](resources/images/08-student_guide_files/figure-docx//1yYCg4cPVBMMDghT17B4XzROieqyMH99Ex9nMm_Scm9Q_ge20e585f11_0_248.png)
 
-Next, click on “DELETE ENVIRONMENT OPTIONS”:
+Next, click on "Settings". Click on "Delete Environment".
 
-![](resources/images/08-student_guide_files/figure-docx//182AOzMaiyrreinnsRX2VhH7YsVgvAp4xtIB_7Mzmk6I_gf243efded1_0_140.png)
+![](resources/images/08-student_guide_files/figure-docx//1yYCg4cPVBMMDghT17B4XzROieqyMH99Ex9nMm_Scm9Q_ge20e585f11_0_256.png)
 
-Finally, select “Delete everything, including persistent disk”. Make sure you are done with the activity and then click “DELETE”.
+Finally, select "Delete everything, including persistent disk". Make sure you are done with the activity and then click "Delete".
 
-![](resources/images/08-student_guide_files/figure-docx//182AOzMaiyrreinnsRX2VhH7YsVgvAp4xtIB_7Mzmk6I_gf243efded1_0_146.png)
+![](resources/images/08-student_guide_files/figure-docx//1UIfBMQcujMzyNTyIiMXQ6eU0DdWHmI9QUtseGylg6Ms_g117989bd49c_0_0.png)
 
