@@ -27,10 +27,10 @@ The activities in this guide are written for undergraduate students and beginnin
 
 ::: {.notice}
 _Genetics_
-<!-- **Beginner**: some genetics knowledge needed -->
+**Beginner**: some genetics knowledge needed
 
 _Programming skills_
-<!-- **Novice**: no programming experience needed -->
+**Novice**: no programming experience needed
 :::
 
 ## Platform
