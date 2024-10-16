@@ -1,6 +1,5 @@
-:::: {.borrowed_chunk}
-
 # Research Team
+
 
 This project is coordinated by the Genomics Data Science Community Network (GDSCN). You can read more about the GDSCN and its mission at the network [website](https://www.gdscn.org/home).
 
@@ -47,4 +46,3 @@ Funding for this project has been provided by the [National Human Genome Researc
 ## Analytical and Computational Support
 
 Computational support has been provided by NHGRI's [AnVIL](https://anvilproject.org/) cloud computing platform and [Galaxy](usegalaxy.org).
-::::

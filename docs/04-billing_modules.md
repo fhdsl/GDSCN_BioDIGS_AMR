@@ -1,4 +1,5 @@
-:::: {.borrowed_chunk}
+
+
 
 # (PART\*) AnVIL Overview {-}
 
@@ -194,7 +195,7 @@ The Google Billing console displays information by Billing Account.  To view spe
 
     <img src="04-billing_modules_files/figure-html//1POwxqv4p6AfPHJlN9VNq0TaT44fA2RAFSpIERIMHdWU_g116f8d759be_0_2.png" alt="Screenshot of the Terra drop-down menu.  Three items are highlighted: 1) the &quot;hamburger&quot; button for extending the drop-down menu, 2) the arrow next to your username, for extending the drop-down submenu, and 3) the submenu item &quot;Billing&quot;." width="100%" />
 
-1. On the Billing page, click the "+ CREATE" button to create a new Billing Project. If prompted, select the Google account to use.  If prompted, give Terra permission to manage Google Cloud Platform billing accounts.
+1. On the Billing page, click the "+ CREATE" button to create a new Billing Project. Select GCP Billing Project (Google's Platform). If prompted, select the Google account to use and give Terra permission to manage Google Cloud Platform billing accounts.
 
     <img src="04-billing_modules_files/figure-html//1POwxqv4p6AfPHJlN9VNq0TaT44fA2RAFSpIERIMHdWU_g116f8d759be_0_149.png" alt="Screenshot of the Terra Billing Page.  The &quot;plus&quot; button next to &quot;Billing Projects&quot; is highlighted." width="100%" />
 
@@ -210,7 +211,7 @@ The Google Billing console displays information by Billing Account.  To view spe
 
     <img src="04-billing_modules_files/figure-html//1POwxqv4p6AfPHJlN9VNq0TaT44fA2RAFSpIERIMHdWU_g2105956e909_0_0.png" alt="Screenshot of the Terra Add Billing Project dialog box.  The dropdown menu labeled &quot;Select billing account&quot; is highlighted." width="100%" />
 
-1. Click "CREATE BILLING PROJECT".
+1. Click "Create".
 
     <img src="04-billing_modules_files/figure-html//1POwxqv4p6AfPHJlN9VNq0TaT44fA2RAFSpIERIMHdWU_g116f8d759be_0_438.png" alt="Screenshot of the Terra Add Billing Project dialog box.  The button labeled &quot;CREATE BILLING PROJECT&quot; is highlighted." width="100%" />
 
@@ -333,5 +334,4 @@ To disable a Terra Billing Project (i.e. remove the Google Billing Account that 
 If necessary, you can restore funding to the Billing Project and associated Workspaces by clicking the teardrop icon and selecting "Change Billing Account".  However, Google makes no promises about how long the Workspace contents will remain available after you disable funding, so it is best not to rely on them.
 
 <img src="04-billing_modules_files/figure-html//1ib--pXZdu-n-c3b28n73SILA0SrIF5WhdMMaae3DTEI_g21148e49334_0_38.png" alt="Screenshot of a Terra Billing Project management page.  The teardrop button next to the Billing Account information is highlighted." width="100%" />
-::::
 ::::

@@ -1,6 +1,5 @@
-:::: {.borrowed_chunk}
+# BioDIGS Data
 
-# Data
 
 There are currently three major kinds of data available from BioDIGS: sample metadata, soil testing data, and genomics and metagenomics data. All of these are available for use in your classroom.
 
@@ -23,4 +22,3 @@ You can access this data in both raw and processed forms.
 The Illumina and Nanopore sequences were generated at the [Johns Hopkins University Genetic Resources Core Facility](https://grcf.jhmi.edu/). PacBio sequencing was done by [PacBio](https://www.pacb.com/) directly.
 
 More information coming soon!
-::::
