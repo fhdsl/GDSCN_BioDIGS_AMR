@@ -1,6 +1,6 @@
 
 
-# Programming Platforms
+# Using Galaxy
 
 This section provide a general overview of how to use Galaxy on AnVIL.
 

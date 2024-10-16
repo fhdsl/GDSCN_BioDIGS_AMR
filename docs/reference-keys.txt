@@ -29,13 +29,15 @@ disable-terra-billing-project
 anvil-workspace
 create-google-account
 clone-the-workspace
-programming-platforms
+using-galaxy
 video-overview-on-using-galaxy
 objectives
 slides
 starting-galaxy
 navigating-galaxy
 deleting-galaxy
+amr-resistance-with-galaxy
+anvil-account-setup
 create-google-account-1
 log-in-to-terra
 share-username

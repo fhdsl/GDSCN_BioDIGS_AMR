@@ -2,6 +2,8 @@
 
 
 
+# AMR Resistance with Galaxy
+
 ## AnVIL Account Setup
  
 :::: {.borrowed_chunk}
@@ -79,3 +81,5 @@ To clone an AnVIL Workspace:
 
 1. The new Workspace should now show up under https://anvil.terra.bio/#workspaces. This is your own copy of the Workspace to work in.
 ::::
+
+More details coming soon!
