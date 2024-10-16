@@ -3,8 +3,7 @@
 
 
 
-You can easily access the data on AnVIL by cloning the dedicated workspace. These sections guide you through creating an AnVIL account and accessing the workspace.
-
+You can access the data on AnVIL by cloning the dedicated Workspace. These sections guide you through creating an AnVIL account and accessing the Workspace.
 
 ## Create Google Account
 
