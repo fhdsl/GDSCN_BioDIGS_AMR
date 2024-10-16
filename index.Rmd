@@ -1,5 +1,5 @@
 ---
-title: "BioDIGS in the Classroom: Antimicrobial Resistance"
+title: "BioDIGS: Antimicrobial Resistance"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
