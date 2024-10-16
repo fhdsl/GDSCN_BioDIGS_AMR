@@ -13,7 +13,11 @@ favicon: assets/GDSCN_style/gdscn_favicon.ico
 
 # About this Book {-}
 
-This is a companion training guide for BioDIGS, a GDSCN project that brings a research experience into the classroom. In this module, students will investigate whether metagenomic samples from the BioDIGS project contain either antimicrobial resistance genes or biosynthesis genes. They will run analyses using ABRicate as implemented on Galaxy. Visit the BioDIGS (BioDiversity and Informatics for Genomics Scholars) website [here](https://biodigs.org/) for more information about this collaborative, distributed research project, including how you can get involved!
+This is a companion training guide for BioDIGS, a GDSCN project that brings a research experience into the classroom. In this module, students will investigate **whether metagenomic samples from the BioDIGS project contain antimicrobial resistance genes**. They will run analyses using **ABRicate as implemented on Galaxy**. 
+
+![](index_files/figure-docx//1Hb51t_aYJtY6u97-w6F8vnP1edPActzY3uYyG6AXtlY_g2d459dad204_0_16.png){width=80%}
+
+Visit the BioDIGS (BioDiversity and Informatics for Genomics Scholars) website [here](https://biodigs.org/) for more information about this collaborative, distributed research project, including how you can get involved!
 
 The GDSCN (Genomics Data Science Community Network) is a consortium of educators who aim to create a world where researchers, educators, and students from diverse backgrounds are able to fully participate in genomic data science research. You can find more information about its mission and initiatives [here](https://www.gdscn.org/home).
 
@@ -24,11 +28,11 @@ The GDSCN (Genomics Data Science Community Network) is a consortium of educators
 The activities in this guide are written for undergraduate students and beginning graduate students. 
 
 ::: {.notice}
-_Genetics_
-<!-- **Beginner**: some genetics knowledge needed -->
+_Genetics_  
+**Beginner**: some genetics knowledge needed
 
-_Programming skills_
-<!-- **Novice**: no programming experience needed -->
+_Programming skills_  
+**Novice**: no programming experience needed
 :::
 
 ## Platform
