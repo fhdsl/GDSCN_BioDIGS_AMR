@@ -1,6 +1,6 @@
 ---
-title: "BioDIGS in the Classroom: Antimicrobial Resistance"
-date: "August 23, 2024"
+title: "BioDIGS: Antimicrobial Resistance"
+date: "October 16, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
