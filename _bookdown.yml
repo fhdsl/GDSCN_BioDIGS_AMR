@@ -1,4 +1,4 @@
-book_filename: "BioDIGS in the Classroom: Antimicrobial Resistance"
+book_filename: "BioDIGS: Biosynthetic Gene Clusters"
 chapter_name: "Chapter "
 repo: https://github.com/fhdsl/GDSCN_BioDIGS_AMR/
 rmd_files: ["index.Rmd",
@@ -6,10 +6,11 @@ rmd_files: ["index.Rmd",
             "02-research_team.Rmd",
             "03-data_tour.Rmd",
             "04-billing_modules.Rmd",
+            "07-instructor_guide.Rmd",
             "05-anvil_onboarding.Rmd",
             "06-using_galaxy.Rmd",
             "08-student_guide.Rmd",
-            "07-instructor_guide.Rmd",
+            "09-antismash_module.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
