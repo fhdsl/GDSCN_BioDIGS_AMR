@@ -15,7 +15,7 @@ favicon: assets/GDSCN_style/gdscn_favicon.ico
 
 This is a companion training guide for BioDIGS, a GDSCN project that brings a research experience into the classroom. In this module, students will investigate **whether metagenomic samples from the BioDIGS project contain antimicrobial resistance genes**. They will run analyses using **ABRicate as implemented on Galaxy**. 
 
-```{r, echo=FALSE, fig.alt="Landing page for the AMR Activity."}
+```{r, echo=FALSE, fig.alt="Landing page for the AMR Activity.", fig.align='center', out.width='60%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1Hb51t_aYJtY6u97-w6F8vnP1edPActzY3uYyG6AXtlY/edit#slide=id.g2d459dad204_0_16")
 ```
 
@@ -32,10 +32,10 @@ knitr::include_graphics("https://raw.githubusercontent.com/fhdsl/GDSCN_BioDIGS_B
 The activities in this guide are written for undergraduate students and beginning graduate students. 
 
 ::: {.notice}
-_Genetics_
+_Genetics_  
 **Beginner**: some genetics knowledge needed
 
-_Programming skills_
+_Programming skills_  
 **Novice**: no programming experience needed
 :::
 
