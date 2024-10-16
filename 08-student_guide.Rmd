@@ -4,6 +4,8 @@
 ottrpal::set_knitr_image_path()
 ```
 
+# AMR Resistance with Galaxy
+
 ## AnVIL Account Setup
  
 :::: {.borrowed_chunk}
