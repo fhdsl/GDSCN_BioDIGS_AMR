@@ -1,6 +1,6 @@
 ---
 title: "BioDIGS: Antimicrobial Resistance"
-date: "October 16, 2024"
+date: "January 27, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -40,6 +40,8 @@ _Programming skills_
 The activities in this guide are demonstrated on NHGRI's [AnVIL](https://anvilproject.org/) cloud computing platform. AnVIL is the preferred computing platform for the GDSCN. However, all of these activities can be done using your personal installation of R or using the online [Galaxy](usegalaxy.org) portal.
 
 Please check out our full collection of AnVIL and related resources: https://hutchdatascience.org/AnVIL_Collection/
+
+![](https://raw.githubusercontent.com/fhdsl/GDSCN_BioDIGS_Book/main/assets/GDSCN_style/powered-by-anvil.png){width=500px}
 
 ## Data
 
