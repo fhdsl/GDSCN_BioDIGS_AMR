@@ -1,6 +1,6 @@
 ---
 title: "BioDIGS: Antimicrobial Resistance"
-date: "January 27, 2025"
+date: "April 25, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
