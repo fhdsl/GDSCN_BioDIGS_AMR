@@ -67,7 +67,7 @@ To clone an AnVIL Workspace:
     
 1. Clone the workspace by clicking the teardrop button (![teardrop button](https://raw.githubusercontent.com/jhudsl/AnVIL_Template/main/child/child_assets/teardrop_button.png){width=25px}). Select "Clone". See the screenshot below on a different Workspace:
 
-    <img src="resources/images/09-student_guide_files/figure-html//1a5Da6qX9BG7Q_6XAz7MvlDyWTvssm2hWwuo1WFJXb_0_g117abafa453_0_577.png" alt="Screenshot showing the teardrop button. The button has been clicked revealing the &quot;clone&quot; option. The Clone option and the teardrop button are highlighted." width="100%" />
+    <img src="09-student_guide_files/figure-html//1a5Da6qX9BG7Q_6XAz7MvlDyWTvssm2hWwuo1WFJXb_0_g117abafa453_0_577.png" alt="Screenshot showing the teardrop button. The button has been clicked revealing the 'clone' option. The Clone option and the teardrop button are highlighted." width="100%" />
 
 1. You will see a popup box appear, asking you to configure your Workspace
     a. Give your Workspace clone a name by adding an underscore ("_") and your name. For example, \"Investigating-Antimicrobial-Resistance_Firstname_Lastname\".
@@ -77,7 +77,7 @@ To clone an AnVIL Workspace:
     
     See the screenshot below on a different Workspace:
     
-    <img src="resources/images/09-student_guide_files/figure-html//1a5Da6qX9BG7Q_6XAz7MvlDyWTvssm2hWwuo1WFJXb_0_g17144dbacd0_0_352.png" alt="Screenshot showing the &quot;clone a workspace&quot; popout. The Workspace name, Billing Project, and Clone Workspace button have been filled in and highlighted." width="100%" />
+    <img src="09-student_guide_files/figure-html//1a5Da6qX9BG7Q_6XAz7MvlDyWTvssm2hWwuo1WFJXb_0_g17144dbacd0_0_352.png" alt="Screenshot showing the 'clone a workspace' popout. The Workspace name, Billing Project, and Clone Workspace button have been filled in and highlighted." width="100%" />
 
 1. The new Workspace should now show up under https://anvil.terra.bio/#workspaces. This is your own copy of the Workspace to work in.
 ::::

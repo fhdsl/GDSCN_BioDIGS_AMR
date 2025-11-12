@@ -12,7 +12,7 @@ This section provide a general overview of how to use Galaxy on AnVIL.
 
 Here is a video tutorial that describes the basics of using Galaxy on AnVIL.
 
-<iframe width="560" height="315" src="https://youtu.be/9TEVu7QobOo?si=tLFXNe951vVJV4iN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9TEVu7QobOo?si=a1IR17kSNUs4bTaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Objectives
 
@@ -72,7 +72,7 @@ Return to AnVIL, and find the Galaxy logo that shows your cloud environment is r
 
 Next, click on "Settings". Click on "Delete Environment".
 
-<img src="06-using_galaxy_files/figure-html//1yYCg4cPVBMMDghT17B4XzROieqyMH99Ex9nMm_Scm9Q_ge20e585f11_0_256.png" alt="Screenshot of the cloud environment pop out menu. The &quot;Delete Environment&quot; button is highlighted." width="100%" />
+<img src="06-using_galaxy_files/figure-html//1yYCg4cPVBMMDghT17B4XzROieqyMH99Ex9nMm_Scm9Q_ge20e585f11_0_256.png" alt="Screenshot of the cloud environment pop out menu. The 'Delete Environment' button is highlighted." width="100%" />
 
 Finally, select "Delete everything, including persistent disk". Make sure you are done with the activity and then click "Delete".
 

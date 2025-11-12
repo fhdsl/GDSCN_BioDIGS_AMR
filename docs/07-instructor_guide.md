@@ -67,7 +67,7 @@ First, create the Billing Project. Billing Project names must be globally unique
 
 1. Click “+CREATE”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_88.png" alt="Screenshot of the Terra Billing page. The &quot;+CREATE&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_88.png" alt="Screenshot of the Terra Billing page. The "+CREATE" button is highlighted." width="480" />
 
 1. Type in your Billing Project name
 
@@ -79,7 +79,7 @@ First, create the Billing Project. Billing Project names must be globally unique
     
 1. Click “CREATE BILLING PROJECT”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_9.png" alt="Screenshot of the Terra Billing page with Create Billing Project pop out box. The &quot;CREATE BILLING PROJECT&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_9.png" alt="Screenshot of the Terra Billing page with Create Billing Project pop out box. The "CREATE BILLING PROJECT" button is highlighted." width="480" />
     
 You now have a unique **Billing Project**.
 
@@ -91,11 +91,11 @@ Next, you want to give instructors permission to use the Billing Project to comp
 
 1. Select the “Owned by You” Billing Project sub-list
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_0.png" alt="Screenshot of the AnVIL Billing page. The &quot;Owned by You&quot; billing list is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_0.png" alt="Screenshot of the AnVIL Billing page. The "Owned by You" billing list is highlighted." width="480" />
 
 1. Select the Billing Project you made in [Instructor Billing Project](#billing-project)
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_10.png" alt="Screenshot of the AnVIL Billing page. The &quot;Owned by You&quot; billing list has been expanded. The instructor Billing project, in this case jhu-bmr2021-instructors, is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_10.png" alt="Screenshot of the AnVIL Billing page. The "Owned by You" billing list has been expanded. The instructor Billing project, in this case jhu-bmr2021-instructors, is highlighted." width="480" />
 
 1. Select the “Users” tab
 
@@ -103,17 +103,17 @@ Next, you want to give instructors permission to use the Billing Project to comp
 
 1. Click “+ Add User”. You will be prompted to add a “User email *”.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_39.png" alt="Screenshot of the AnVIL Billing page. The instructor Billing project, in this case jhu-bmr2021-instructors, has been selected and the &quot;+Add User&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_39.png" alt="Screenshot of the AnVIL Billing page. The instructor Billing project, in this case jhu-bmr2021-instructors, has been selected and the "+Add User" button is highlighted." width="480" />
 
 1. Begin typing the instructor Group name set up in [Instructor Group](#instructor-group). You should see an email in the form <group-name>@firecloud.org (e.g., jhu-bmr2021-instructors@firecloud.org).
 
 1. Ensure “Can manage users (Owner)” is **selected**
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_54.png" alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_54.png" alt="Screenshot of the AnVIL Billing page with the "Add User" pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked." width="480" />
 
 1. Click “ADD USER”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_70.png" alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked. The &quot;ADD USER&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_70.png" alt="Screenshot of the AnVIL Billing page with the "Add User" pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked. The "ADD USER" button is highlighted." width="480" />
 
 
 ::: {.notice}
@@ -128,11 +128,11 @@ Next, you will add your student Group to the Billing Project so that they can co
 
 1. Select the “Owned by You” Billing Project sub-list
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_0.png" alt="Screenshot of the AnVIL Billing page. The &quot;Owned by You&quot; billing list is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_0.png" alt="Screenshot of the AnVIL Billing page. The "Owned by You" billing list is highlighted." width="480" />
 
 1. Select the Billing Project you made in [Billing Project](#billing-project)
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_90.png" alt="Screenshot of the AnVIL Billing page. The &quot;Owned by You&quot; billing list has been expanded. The student Billing project, in this case jhu-bmr2021-students, is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_90.png" alt="Screenshot of the AnVIL Billing page. The "Owned by You" billing list has been expanded. The student Billing project, in this case jhu-bmr2021-students, is highlighted." width="480" />
 
 1. Select the “Users” tab
 
@@ -140,17 +140,17 @@ Next, you will add your student Group to the Billing Project so that they can co
 
 1. Click “+ Add User”. You will be prompted to add a “User email *”.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_315.png" alt="Screenshot of the AnVIL Billing page. The student Billing project, in this case jhu-bmr2021-students, has been selected and the &quot;+Add User&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_315.png" alt="Screenshot of the AnVIL Billing page. The student Billing project, in this case jhu-bmr2021-students, has been selected and the "+Add User" button is highlighted." width="480" />
 
 1. Begin typing the student Group name set up in [Student Group](#student-group). You should see an email in the form <group-name>@firecloud.org (e.g., jhu-bmr2021-students@firecloud.org). 
 
 1. Keep “Can manage users (Owner)” **deselected**.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_132.png" alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The student Group email, in this case jhu-bmr2021-students@firecloud.org, has been filled in and the Owner role checkbox has NOT been ticked." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_132.png" alt="Screenshot of the AnVIL Billing page with the "Add User" pop out box. The student Group email, in this case jhu-bmr2021-students@firecloud.org, has been filled in and the Owner role checkbox has NOT been ticked." width="480" />
 
 1. Click “ADD USER”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_327.png" alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The student Group email, in this case jhu-bmr2021-students@firecloud.org, has been filled in and the Owner role checkbox has NOT been ticked. The &quot;ADD USER&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_327.png" alt="Screenshot of the AnVIL Billing page with the "Add User" pop out box. The student Group email, in this case jhu-bmr2021-students@firecloud.org, has been filled in and the Owner role checkbox has NOT been ticked. The "ADD USER" button is highlighted." width="480" />
 
 ## Understanding the various billing costs
 
@@ -224,13 +224,13 @@ Create an informative, unique Group name for any co-instructors and teaching ass
 
 1. Click “+ Create a New Group”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_6.png" alt="Screenshot of the Terra Group page. The &quot;Create a New Group&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_6.png" alt="Screenshot of the Terra Group page. The "Create a New Group" button is highlighted." width="480" />
 
 1. Type in your instructor Group name
 
 1. Click “CREATE GROUP”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_16.png" alt="Screenshot of the Terra Group page with Create New Group pop out box. The Group name, jhu-bmr2021-instructors, has been entered and the &quot;CREATE GROUP&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_16.png" alt="Screenshot of the Terra Group page with Create New Group pop out box. The Group name, jhu-bmr2021-instructors, has been entered and the "CREATE GROUP" button is highlighted." width="480" />
 
 You now have a unique **instructor Group**.
 
@@ -244,23 +244,23 @@ Now that your instructor Group has been created, you should add any additional i
 
 1. Click on “+Add User”. You will be prompted to add the instructor’s AnVIL ID. 
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_45.png" alt="Screenshot of the Terra Group page for the specific Group that was just created. The &quot;+Add User&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_45.png" alt="Screenshot of the Terra Group page for the specific Group that was just created. The "+Add User" button is highlighted." width="480" />
 
 1. Type in the instructor’s AnVIL ID
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_58.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with &quot;Add user to Terra Group&quot; pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the AnVIL ID (email) is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_58.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with "Add user to Terra Group" pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the AnVIL ID (email) is highlighted." width="480" />
 
 1. Make sure “Can manage users (admin)” is **selected**
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_65.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with &quot;Add user to Terra Group&quot; pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the checkbox &quot;Can manage users (admin)&quot; has been selected and is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_65.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with "Add user to Terra Group" pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the checkbox "Can manage users (admin)" has been selected and is highlighted." width="480" />
 
 1. Click ADD USER. This will take you back to the Group administration page.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_71.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with &quot;Add user to Terra Group&quot; pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the &quot;ADD USER&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_71.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with "Add user to Terra Group" pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the "ADD USER" button is highlighted." width="480" />
 
 Make sure the newly added instructor displays “Admin” under “Roles” beside their AnVIL ID. Repeat this process for any additional co-instructors and teaching assistants.
 
-<img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_78.png" alt="Screenshot of the Terra Group for the instructor Group that was just created, where the newly added instructor is visible in the user list. The instructor`s AnVIL ID, instructor-1@gmail.com is visible next to the role &quot;Admin&quot;, which is highlighted." width="480" />
+<img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_78.png" alt="Screenshot of the Terra Group for the instructor Group that was just created, where the newly added instructor is visible in the user list. The instructor`s AnVIL ID, instructor-1@gmail.com is visible next to the role "Admin", which is highlighted." width="480" />
 
 ### Student Group {#student-group} {-}
 
@@ -270,13 +270,13 @@ Next, you will create a Group for your students. Create an informative, unique G
 
 1. Click “+ Create a New Group”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_6.png" alt="Screenshot of the Terra Group page. The &quot;Create a New Group&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_6.png" alt="Screenshot of the Terra Group page. The "Create a New Group" button is highlighted." width="480" />
 
 1. Type in your student Group name
 
 1. Click “CREATE GROUP”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_38.png" alt="Screenshot of the Terra Group page with Create New Group pop out box. The Group name, jhu-bmr2021-students, has been entered and the &quot;CREATE GROUP&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_38.png" alt="Screenshot of the Terra Group page with Create New Group pop out box. The Group name, jhu-bmr2021-students, has been entered and the "CREATE GROUP" button is highlighted." width="480" />
 
 You now have a unique **student Group**.
 
@@ -290,23 +290,23 @@ The next steps ensure any additional co-instructors and teaching assistants are 
 
 1. Click on “+Add User”. You will be prompted to add the instructor’s AnVIL ID. 
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_104.png" alt="Screenshot of the Terra Group page for the specific Group that was just created. The &quot;+Add User&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_104.png" alt="Screenshot of the Terra Group page for the specific Group that was just created. The "+Add User" button is highlighted." width="480" />
 
 1. Type in the instructor’s AnVIL ID
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_58.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with &quot;Add user to Terra Group&quot; pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the AnVIL ID (email) is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_58.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with "Add user to Terra Group" pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the AnVIL ID (email) is highlighted." width="480" />
 
 1. Make sure “Can manage users (admin)” is **selected**
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_65.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with &quot;Add user to Terra Group&quot; pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the checkbox &quot;Can manage users (admin)&quot; has been selected and is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_65.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with "Add user to Terra Group" pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the checkbox "Can manage users (admin)" has been selected and is highlighted." width="480" />
 
 1. Click ADD USER. This will take you back to the Group administration page.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_71.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with &quot;Add user to Terra Group&quot; pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the &quot;ADD USER&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_71.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with "Add user to Terra Group" pop out box. The instructor`s AnVIL ID, instructor-1@gmail.com, has been entered and the "ADD USER" button is highlighted." width="480" />
 
 Make sure the newly added instructor displays “Admin” under “Roles” beside their AnVIL ID. Repeat this process for any additional co-instructors and teaching assistants.
 
-<img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_87.png" alt="Screenshot of the Terra Group for the student Group that was just created, where the newly added instructor is visible in the user list. The instructor`s AnVIL ID, instructor-1@gmail.com is visible next to the role &quot;Admin&quot;, which is highlighted." width="480" />
+<img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_87.png" alt="Screenshot of the Terra Group for the student Group that was just created, where the newly added instructor is visible in the user list. The instructor`s AnVIL ID, instructor-1@gmail.com is visible next to the role "Admin", which is highlighted." width="480" />
 
 #### Add Students as "Member" {-}
 
@@ -318,19 +318,19 @@ Follow the steps below to add individual students to the student Group:
 
 1. Click on “+Add User”. You will be prompted to add an AnVIL ID. 
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_104.png" alt="Screenshot of the Terra Group page for the specific Group that was just created. The &quot;+Add User&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_104.png" alt="Screenshot of the Terra Group page for the specific Group that was just created. The "+Add User" button is highlighted." width="480" />
 
 1. Type in the student’s AnVIL ID
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_111.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with &quot;Add user to Terra Group&quot; pop out box. The student`s AnVIL ID, student-1@gmail.com, has been entered and the AnVIL ID (email) is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_111.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with "Add user to Terra Group" pop out box. The student`s AnVIL ID, student-1@gmail.com, has been entered and the AnVIL ID (email) is highlighted." width="480" />
 
 1. Click ADD USER
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_117.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with &quot;Add user to Terra Group&quot; pop out box. The student`s AnVIL ID, student-1@gmail.com, has been entered and the &quot;ADD USER&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_117.png" alt="Screenshot of the Terra Group for the specific Group that was just created, with "Add user to Terra Group" pop out box. The student`s AnVIL ID, student-1@gmail.com, has been entered and the "ADD USER" button is highlighted." width="480" />
 
 Make sure the newly added student displays “Member” under “Roles” beside their AnVIL ID. At present, each student’s AnVIL ID must be added separately.
 
-<img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_125.png" alt="Screenshot of the Terra Group for the student Group that was just created, where the newly added student is visible in the user list. The student`s AnVIL ID, student-1@gmail.com is visible next to the role &quot;Member&quot;, which is highlighted." width="480" />
+<img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_125.png" alt="Screenshot of the Terra Group for the student Group that was just created, where the newly added student is visible in the user list. The student`s AnVIL ID, student-1@gmail.com is visible next to the role "Member", which is highlighted." width="480" />
 
 Your instructor and student Groups are now set up.
 
@@ -354,7 +354,7 @@ First, create the Billing Project for instructors. We suggest the name of the Bi
 
 1. Click “+CREATE”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_88.png" alt="Screenshot of the Terra Billing page. The &quot;+CREATE&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_88.png" alt="Screenshot of the Terra Billing page. The "+CREATE" button is highlighted." width="480" />
 
 1. Type in your instructor Billing Project name
 
@@ -366,7 +366,7 @@ First, create the Billing Project for instructors. We suggest the name of the Bi
     
 1. Click “CREATE BILLING PROJECT”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_9.png" alt="Screenshot of the Terra Billing page with Create Billing Project pop out box. The &quot;CREATE BILLING PROJECT&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_9.png" alt="Screenshot of the Terra Billing page with Create Billing Project pop out box. The "CREATE BILLING PROJECT" button is highlighted." width="480" />
     
 You now have a unique **instructor Billing Project**.
 
@@ -378,11 +378,11 @@ Next, you want to give instructors permission to use the Billing Project to comp
 
 1. Select the “Owned by You” Billing Project sub-list
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_0.png" alt="Screenshot of the AnVIL Billing page. The &quot;Owned by You&quot; billing list is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_0.png" alt="Screenshot of the AnVIL Billing page. The "Owned by You" billing list is highlighted." width="480" />
 
 1. Select the Billing Project you made for instructors in [Instructor Billing Project](#instructor-billing-project)
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_10.png" alt="Screenshot of the AnVIL Billing page. The &quot;Owned by You&quot; billing list has been expanded. The instructor Billing project, in this case jhu-bmr2021-instructors, is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_10.png" alt="Screenshot of the AnVIL Billing page. The "Owned by You" billing list has been expanded. The instructor Billing project, in this case jhu-bmr2021-instructors, is highlighted." width="480" />
 
 1. Select the “Users” tab
 
@@ -390,17 +390,17 @@ Next, you want to give instructors permission to use the Billing Project to comp
 
 1. Click “+ Add User”. You will be prompted to add a “User email *”.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_39.png" alt="Screenshot of the AnVIL Billing page. The instructor Billing project, in this case jhu-bmr2021-instructors, has been selected and the &quot;+Add User&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_39.png" alt="Screenshot of the AnVIL Billing page. The instructor Billing project, in this case jhu-bmr2021-instructors, has been selected and the "+Add User" button is highlighted." width="480" />
 
 1. Begin typing the instructor Group name set up in [Instructor Group](#instructor-group). You should see an email in the form <group-name>@firecloud.org (e.g., jhu-bmr2021-instructors@firecloud.org).
 
 1. Ensure “Can manage users (Owner)” is **selected**
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_54.png" alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_54.png" alt="Screenshot of the AnVIL Billing page with the "Add User" pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked." width="480" />
 
 1. Click “ADD USER”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_70.png" alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked. The &quot;ADD USER&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_70.png" alt="Screenshot of the AnVIL Billing page with the "Add User" pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked. The "ADD USER" button is highlighted." width="480" />
 
 Your **instructor Billing Project** is now set up.
 
@@ -412,7 +412,7 @@ Next, create a student Billing Project. Again, we suggest a combination of insti
 
 1. Click “+CREATE”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_88.png" alt="Screenshot of the Terra Billing page. The &quot;+CREATE&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_88.png" alt="Screenshot of the Terra Billing page. The "+CREATE" button is highlighted." width="480" />
     
 1. Type in your student Billing Project name
 
@@ -424,7 +424,7 @@ Next, create a student Billing Project. Again, we suggest a combination of insti
 
 1. Click “CREATE BILLING PROJECT”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_27.png" alt="Screenshot of the Terra Billing page with Create Billing Project pop out box. The &quot;CREATE BILLING PROJECT&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g100474897dd_0_27.png" alt="Screenshot of the Terra Billing page with Create Billing Project pop out box. The "CREATE BILLING PROJECT" button is highlighted." width="480" />
 
 You now have a unique **student Billing Project**.
    
@@ -436,11 +436,11 @@ You want to ensure any additional co-instructors and teaching assistants are abl
 
 1. Select the “Owned by You” Billing Project sub-list
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_0.png" alt="Screenshot of the AnVIL Billing page. The &quot;Owned by You&quot; billing list is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_0.png" alt="Screenshot of the AnVIL Billing page. The "Owned by You" billing list is highlighted." width="480" />
 
 1. Select the Billing Project you made for students in [Student Billing Project](#student-billing-project)
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_90.png" alt="Screenshot of the AnVIL Billing page. The &quot;Owned by You&quot; billing list has been expanded. The student Billing project, in this case jhu-bmr2021-students, is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_90.png" alt="Screenshot of the AnVIL Billing page. The "Owned by You" billing list has been expanded. The student Billing project, in this case jhu-bmr2021-students, is highlighted." width="480" />
 
 1. Select the “Users” tab
 
@@ -448,17 +448,17 @@ You want to ensure any additional co-instructors and teaching assistants are abl
 
 1. Click “+ Add User”. You will be prompted to add a “User email *”.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_315.png" alt="Screenshot of the AnVIL Billing page. The student Billing project, in this case jhu-bmr2021-students, has been selected and the &quot;+Add User&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_315.png" alt="Screenshot of the AnVIL Billing page. The student Billing project, in this case jhu-bmr2021-students, has been selected and the "+Add User" button is highlighted." width="480" />
 
 1. Begin typing the instructor Group name set up in [### Set Up Groups]. You should see an email in the form <group-name>@firecloud.org (e.g., jhu-bmr2021-instructors@firecloud.org).
 
 1. Ensure “Can manage users (Owner)” is **selected**
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_54.png" alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_54.png" alt="Screenshot of the AnVIL Billing page with the "Add User" pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked." width="480" />
 
 1. Click “ADD USER”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_70.png" alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked. The &quot;ADD USER&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_70.png" alt="Screenshot of the AnVIL Billing page with the "Add User" pop out box. The instructor Group email, in this case jhu-bmr2021-instructors@firecloud.org, has been filled in and the Owner role checkbox has been ticked. The "ADD USER" button is highlighted." width="480" />
     
 ::: {.notice}
 This step makes it so that co-instructors can edit permissions and administer the student Billing Project as needed. While this means you and co-instructors can compute using the student Billing Project, this makes spending difficult to track. Instructors should always use the **instructor Billing Project** to compute. This makes it much easier to track costs associated with instructors versus students.
@@ -472,11 +472,11 @@ Next, you will add your student Group to the student Billing Project so that the
 
 1. Select the “Owned by You” Billing Project sub-list
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_0.png" alt="Screenshot of the AnVIL Billing page. The &quot;Owned by You&quot; billing list is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_0.png" alt="Screenshot of the AnVIL Billing page. The "Owned by You" billing list is highlighted." width="480" />
 
 1. Select the Billing Project you made for students in [Student Billing Project](#student-billing-project)
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_90.png" alt="Screenshot of the AnVIL Billing page. The &quot;Owned by You&quot; billing list has been expanded. The student Billing project, in this case jhu-bmr2021-students, is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_90.png" alt="Screenshot of the AnVIL Billing page. The "Owned by You" billing list has been expanded. The student Billing project, in this case jhu-bmr2021-students, is highlighted." width="480" />
 
 1. Select the “Users” tab
 
@@ -484,17 +484,17 @@ Next, you will add your student Group to the student Billing Project so that the
 
 1. Click “+ Add User”. You will be prompted to add a “User email *”.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_315.png" alt="Screenshot of the AnVIL Billing page. The student Billing project, in this case jhu-bmr2021-students, has been selected and the &quot;+Add User&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_315.png" alt="Screenshot of the AnVIL Billing page. The student Billing project, in this case jhu-bmr2021-students, has been selected and the "+Add User" button is highlighted." width="480" />
 
 1. Begin typing the student Group name set up in [Student Group](#student-group). You should see an email in the form <group-name>@firecloud.org (e.g., jhu-bmr2021-students@firecloud.org). 
 
 1. Keep “Can manage users (Owner)” **deselected**.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_132.png" alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The student Group email, in this case jhu-bmr2021-students@firecloud.org, has been filled in and the Owner role checkbox has NOT been ticked." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_132.png" alt="Screenshot of the AnVIL Billing page with the "Add User" pop out box. The student Group email, in this case jhu-bmr2021-students@firecloud.org, has been filled in and the Owner role checkbox has NOT been ticked." width="480" />
 
 1. Click “ADD USER”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_327.png" alt="Screenshot of the AnVIL Billing page with the &quot;Add User&quot; pop out box. The student Group email, in this case jhu-bmr2021-students@firecloud.org, has been filled in and the Owner role checkbox has NOT been ticked. The &quot;ADD USER&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_327.png" alt="Screenshot of the AnVIL Billing page with the "Add User" pop out box. The student Group email, in this case jhu-bmr2021-students@firecloud.org, has been filled in and the Owner role checkbox has NOT been ticked. The "ADD USER" button is highlighted." width="480" />
 
 Your **student Billing Project** is now set up.
 
@@ -512,19 +512,19 @@ You should add your co-instructors and teaching assistants as “Owners” to th
 
 1. Click “Share”. This will open a dialog box.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_344.png" alt="Screenshot of the class Workspace listed in the Workspaces tab. The teardrop button and the option to &quot;Share&quot; the Workspace are highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_344.png" alt="Screenshot of the class Workspace listed in the Workspaces tab. The teardrop button and the option to "Share" the Workspace are highlighted." width="480" />
 
 1. Enter the name of the instructor Group (e.g., jhu-bmr2021-instructors). This will create a dropdown for the Group permissions in the box. Select this Group.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_138.png" alt="Screenshot of the share Workspace pop out box. The text &quot;jhu-bmr&quot; has been entered in the User email box and the dropdown below has been automatically filtered to reveal the instructor, student, and dev Groups. The instructor Group, in this case jhu-bmr2021-instructors@firecloud.org, has been highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_gdb96a00840_0_138.png" alt="Screenshot of the share Workspace pop out box. The text "jhu-bmr" has been entered in the User email box and the dropdown below has been automatically filtered to reveal the instructor, student, and dev Groups. The instructor Group, in this case jhu-bmr2021-instructors@firecloud.org, has been highlighted." width="480" />
 
 1. Change permissions to “Owner” using the dropdown menu under the instructor Group
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_356.png" alt="Screenshot of the share Workspace pop out box. The instructor Group, in this case jhu-bmr2021-instructors@firecloud.org, has been added as a collaborator. The permissions are highlighted and show that role has been set to &quot;Owner&quot;." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_356.png" alt="Screenshot of the share Workspace pop out box. The instructor Group, in this case jhu-bmr2021-instructors@firecloud.org, has been added as a collaborator. The permissions are highlighted and show that role has been set to "Owner"." width="480" />
 
 1. Click “SAVE”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_365.png" alt="Screenshot of the share Workspace pop out box. The instructor Group email has been added with permissions correctly set. The &quot;SAVE&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_365.png" alt="Screenshot of the share Workspace pop out box. The instructor Group email has been added with permissions correctly set. The "SAVE" button is highlighted." width="480" />
 
 ::: {.notice}
 This step makes it so that co-instructors can edit the original content of the Workspace as needed. While this means you and co-instructors can compute using the development Billing Project, this makes spending difficult to track. Instructors should instead clone the Workspace using the **instructor Billing Project**. This makes it much easier to track costs associated with this iteration of your class versus further iterations (e.g., the following semester or year).
@@ -538,19 +538,19 @@ Next, add your students as “Readers” to the class Workspace. This means they
 
 1. Click “Share”. This will open a dialog box.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_344.png" alt="Screenshot of the class Workspace listed in the Workspaces tab. The teardrop button and the option to &quot;Share&quot; the Workspace are highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_344.png" alt="Screenshot of the class Workspace listed in the Workspaces tab. The teardrop button and the option to "Share" the Workspace are highlighted." width="480" />
 
 1. Enter the name of the student Group. This will create a dropdown for the Group permissions in the box. Select this Group.
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_378.png" alt="Screenshot of the share Workspace pop out box. The text &quot;jhu-bmr&quot; has been entered in the User email box and the dropdown below has been automatically filtered to reveal the student and dev Groups. The student Group, in this case jhu-bmr2021-students@firecloud.org, has been highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_378.png" alt="Screenshot of the share Workspace pop out box. The text "jhu-bmr" has been entered in the User email box and the dropdown below has been automatically filtered to reveal the student and dev Groups. The student Group, in this case jhu-bmr2021-students@firecloud.org, has been highlighted." width="480" />
 
 1. Ensure permissions are set to “Reader” (default)
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_386.png" alt="Screenshot of the share Workspace pop out box. The student Group, in this case jhu-bmr2021-students@firecloud.org, has been added as a collaborator. The permissions are highlighted and show that role is &quot;Reader&quot;." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_386.png" alt="Screenshot of the share Workspace pop out box. The student Group, in this case jhu-bmr2021-students@firecloud.org, has been added as a collaborator. The permissions are highlighted and show that role is "Reader"." width="480" />
 
 1. Click “SAVE”
 
-    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_394.png" alt="Screenshot of the share Workspace pop out box. The student Group email has been added with permissions correctly set. The &quot;SAVE&quot; button is highlighted." width="480" />
+    <img src="07-instructor_guide_files/figure-html//1HHWg47Tg6miv_K7GNB6ZDTx-4Jc5IMl7APfFtD1Rqag_g1007b9b3ffb_0_394.png" alt="Screenshot of the share Workspace pop out box. The student Group email has been added with permissions correctly set. The "SAVE" button is highlighted." width="480" />
 
 You have now correctly set up your class permissions!
 
